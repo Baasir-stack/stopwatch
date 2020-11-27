@@ -1,0 +1,36 @@
+body{
+    /* background-color:  black; */
+    text-align: center;
+    padding-top: 300px;
+    background-color: indianred;
+    }
+
+h1{
+    
+display: inline;
+font-size: 100px;
+color: white;
+padding: 10px 10px;
+}
+button{
+    margin-left: 10px;
+    font-size: 20px;
+    width: 100px;
+    border: 2px solid orange;
+    padding: 10px 10px 10px 10px;
+}
+
+.a:hover{
+    background-color: rgb(76, 0, 255);
+}
+.b:hover{
+    background-color: red;
+}
+
+.c:hover{
+    background-color: rgb(45, 235, 45);
+}
+
+.hidden{
+    display: none;
+}
